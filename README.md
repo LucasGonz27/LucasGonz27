@@ -39,4 +39,9 @@
 **Rôle :** Développeur Web / Stage  
 - Développement de **scripts PHP** pour automatiser des tâches  
 - Création d’un **outil interne type “WeTransfer”**  
-- Redimensionnement d’images et ajout de fonctionnalités au **tableau de bord admin**  
+- Redimensionnement d’images et ajout de fonctionnalités au **tableau de bord admin**
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-gonzalez-62a876333/)  
+- [Email](mailto:lucas.gonz2702@gmail.com)  
