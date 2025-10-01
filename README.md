@@ -20,7 +20,7 @@
 
 ## 🌱 Ce que je fais en ce moment
 
-- Développement d'applications Web et mobile  
+- Développement d'applications Web et mobile 
 - Création de **sites vitrines** et outils internes pour des projets ou stages  
 - Exploration et apprentissage de nouvelles technos Full Stack  
 - Toujours en quête de nouveaux challenges 🚀  
