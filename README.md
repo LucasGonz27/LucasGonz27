@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Lucas Gonzalez
 
-🎯 **Développeur Full Stack** | JS, PHP & C#  
+🎯 **Développeur Full Stack** | JS, PHP, C#, React & Express
 💻 Passionné par le **Web et le développement logiciel**, je crée des projets solides, modernes et utiles.  
 💡 **Hyper curieux**, toujours prêt à tester de nouvelles technos et toucher à tout.  
 
