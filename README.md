@@ -74,15 +74,6 @@ const lucas = {
 - Création d'un outil de partage de fichiers type "WeTransfer"
 - Fonctionnalités dashboard admin (redimensionnement images, etc.)
 
----
-
-## 📊 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGonz27&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=LucasGonz27&layout=compact&theme=radical)
-
----
 
 ## 📫 On se connecte ?
 
