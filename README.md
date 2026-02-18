@@ -46,7 +46,7 @@ const lucas = {
 ![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 💼 En ce moment je...
-- 🎓 Étudie le développement logiciel à **Epitech Montpellier** (Pré-MSc)
+- 🎓 Étudie le développement web/logiciel à **Epitech Montpellier** (Pré-MSc)
 - 🚀 Perfectionne mes skills en TypeScript et patterns avancés
 - 🤖 Booste ma productivité avec Cursor et Claude Code
 
