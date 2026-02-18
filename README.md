@@ -6,7 +6,7 @@
 const lucas = {
   role: "Full Stack Developer",
   location: "Montpellier, France ☀️",
-  passion: "Créer des apps qui claquent sinon j'aime la pêche et le foot",
+  passion: "Créer des apps qui claquent, sinon j'aime aussi la pêche et le foot",
 };
 ```
 
