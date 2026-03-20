@@ -43,42 +43,25 @@ const lucas = {
 
 ## `> cat /stack.yml`
 
-### Frontend
+### `[01] FRONTEND`
+```
+Next.js · React · TypeScript · JavaScript · TailwindCSS · HTML5 · CSS3
+```
 
-| Tech | Role |
-|---|---|
-| **Next.js** | React framework, App Router |
-| **React** | UI rendering |
-| **TypeScript / JavaScript** | Static typing & scripting |
-| **TailwindCSS** | Utility-first styling |
+### `[02] BACKEND`
+```
+NestJS · Node.js · Express · PHP · Java · C# · Python
+```
 
-### Backend
+### `[03] DATABASES`
+```
+PostgreSQL · MySQL · MongoDB · Prisma
+```
 
-| Tech | Role |
-|---|---|
-| **NestJS** | REST API framework |
-| **Node.js / Express** | Runtime & lightweight server |
-| **PHP** | Legacy & scripts |
-| **Java / C# / Python** | Polyvalence multi-langages |
-
-### Databases
-
-| Tech | Role |
-|---|---|
-| **PostgreSQL** | Relational database |
-| **MySQL** | Relational alternative |
-| **Prisma** | Type-safe ORM |
-
-### Infrastructure & Tools
-
-| Tech | Role |
-|---|---|
-| **Docker** | Containerisation |
-| **Git** | Version control |
-| **Supabase** | Hosted DB + Storage |
-| **Turborepo** | Monorepo management |
-| **VS Code** | IDE |
-| **Cursor + Claude Code** | AI-powered dev |
+### `[04] INFRASTRUCTURE & TOOLS`
+```
+Docker · Git · Supabase · Turborepo · VS Code · Cursor · Claude Code
+```
 
 ---
 
