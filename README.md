@@ -1,73 +1,138 @@
-# 👋 Hey ! Moi c'est Lucas
+<div align="center">
 
-### 🎮 Développeur Full Stack qui transforme ton idée en code
-> *Actuellement en train de coder des trucs cool à Epitech Montpellier*
+### `> whoami`
+
+# Lucas Gonzalez
+
+**Full Stack Developer · Epitech Montpellier · Alternant @ Xylecho**
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
+
+<br/>
+
 ```
+ ╔══════════════════════════════════════════════════════════╗
+ ║   [STACK]   [STATUS]   [XP]   [PROJECTS]   [CONTACT]   ║
+ ╚══════════════════════════════════════════════════════════╝
+```
+
+[Stack](#-cat-stackyml) · [Status](#-system-status) · [Expériences](#-ls-experiences) · [Contact](#-connect)
+
+</div>
+
+---
+
+## `> cat /init.js`
+
+```js
 const lucas = {
   role: "Full Stack Developer",
   location: "Montpellier, France ☀️",
-  passion: "Créer des apps qui claquent, sinon j'aime aussi la pêche et le foot",
+  school: "Epitech Montpellier — Pré-MSc",
+  company: "Xylecho · Narbonne (alternance)",
+  passion: "Créer des apps qui claquent — et aussi la pêche et le foot",
 };
 ```
 
 ---
 
-## ⚡ Ma stack de guerre
-### 🚀 Stack principale Web
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-### 🤖 AI-Powered Development
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+## `> cat /stack.yml`
 
-## 💼 En ce moment je...
-- 🎓 Étudie le développement web/logiciel à **Epitech Montpellier** (Pré-MSc)
-- 🚀 Perfectionne mes skills en TypeScript et patterns avancés
-- 🤖 Booste ma productivité avec Cursor et Claude Code
+### Frontend
+
+| Tech | Role |
+|---|---|
+| **Next.js** | React framework, App Router |
+| **React** | UI rendering |
+| **TypeScript / JavaScript** | Static typing & scripting |
+| **TailwindCSS** | Utility-first styling |
+
+### Backend
+
+| Tech | Role |
+|---|---|
+| **NestJS** | REST API framework |
+| **Node.js / Express** | Runtime & lightweight server |
+| **PHP** | Legacy & scripts |
+| **Java / C# / Python** | Polyvalence multi-langages |
+
+### Databases
+
+| Tech | Role |
+|---|---|
+| **PostgreSQL** | Relational database |
+| **MySQL** | Relational alternative |
+| **Prisma** | Type-safe ORM |
+
+### Infrastructure & Tools
+
+| Tech | Role |
+|---|---|
+| **Docker** | Containerisation |
+| **Git** | Version control |
+| **Supabase** | Hosted DB + Storage |
+| **Turborepo** | Monorepo management |
+| **VS Code** | IDE |
+| **Cursor + Claude Code** | AI-powered dev |
 
 ---
 
-## 🏆 Expériences qui comptent
+## `> system-status --current`
 
-### 🌐 **Site vitrine – Audrey Garcia**
-> *Développeur Web Freelance*
+```
+ ┌─────────────────────────────────────────────────────────┐
+ │  MODULE                   STATUS            SINCE       │
+ ├─────────────────────────────────────────────────────────┤
+ │  Epitech Montpellier      ENROLLED          2023        │
+ │  Xylecho (alternance)     ACTIVE            Mar 2026    │
+ │  AI-assisted workflow     OPERATIONAL       ongoing     │
+ └─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> ls /experiences`
+
+### `[01] XYLECHO — NARBONNE`
+```
+STATUS: ACTIVE
+TYPE: Alternance Full Stack
+SINCE: Mars 2026
+```
+- Développement d'applications web full stack en environnement professionnel
+- **Stack :** Next.js · NestJS · TypeScript · Prisma
+
+---
+
+### `[02] AUDREY GARCIA — SITE VITRINE`
+```
+STATUS: DELIVERED
+TYPE: Stage Développeur Web
+```
 - Création d'un site professionnel pour assistante administrative
 - Optimisation SEO et performance
-- **Stack :** HTML5, CSS3, PHP
+- **Stack :** HTML5 · CSS3 · PHP
 
-### 🛠️ **Narbonne Accessoires – Just4Camper**
-> *Stagiaire Développeur Web*
+---
+
+### `[03] NARBONNE ACCESSOIRES — JUST4CAMPER`
+```
+STATUS: COMPLETED
+TYPE: Stage Développeur Web
+```
 - Développement de scripts PHP d'automatisation
 - Création d'un outil de partage de fichiers type "WeTransfer"
 - Fonctionnalités dashboard admin (redimensionnement images, etc.)
+- **Stack :** PHP
 
+---
 
-## 📫 On se connecte ?
+## `> connect --social`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonzalez-62a876333/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.gonz2702@gmail.com)
@@ -76,9 +141,17 @@ const lucas = {
 ---
 
 <div align="center">
-  
-### 💬 *"First, solve the problem. Then, write the code."*
-  
+
+```
+ ╔═══════════════════════════════════════════════╗
+ ║   LUCAS GONZALEZ · FULL STACK DEVELOPER      ║
+ ║   STATUS: ONLINE                             ║
+ ║   OPEN TO: Projets cool & collaborations     ║
+ ╚═══════════════════════════════════════════════╝
+```
+
+### `> echo "First, solve the problem. Then, write the code."`
+
 ⭐ **N'hésite pas à star mes repos si tu trouves un truc cool !**
 
 </div>
